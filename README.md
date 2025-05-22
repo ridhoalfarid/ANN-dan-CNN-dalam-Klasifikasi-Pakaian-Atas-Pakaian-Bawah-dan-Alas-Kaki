@@ -1,1 +1,1 @@
-# StyleVision-Klasifikasi-Pakaian-Atas-Bawah-dan-Alas-Kaki-Berbasis-Citra
+# ANN dan CNN dalam Klasifikasi Pakaian Atas Pakaian Bawah dan Alas Kaki
